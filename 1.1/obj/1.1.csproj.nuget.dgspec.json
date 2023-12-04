@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TesteBNE\\testeDeMesa1\\1.1\\1.1.csproj": {}
+    "D:\\TestesBNE\\testeDeMesa1\\1.1\\1.1.csproj": {}
   },
   "projects": {
-    "D:\\TesteBNE\\testeDeMesa1\\1.1\\1.1.csproj": {
+    "D:\\TestesBNE\\testeDeMesa1\\1.1\\1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TesteBNE\\testeDeMesa1\\1.1\\1.1.csproj",
+        "projectUniqueName": "D:\\TestesBNE\\testeDeMesa1\\1.1\\1.1.csproj",
         "projectName": "1.1",
-        "projectPath": "D:\\TesteBNE\\testeDeMesa1\\1.1\\1.1.csproj",
+        "projectPath": "D:\\TestesBNE\\testeDeMesa1\\1.1\\1.1.csproj",
         "packagesPath": "C:\\Users\\André Ivson\\.nuget\\packages\\",
-        "outputPath": "D:\\TesteBNE\\testeDeMesa1\\1.1\\obj\\",
+        "outputPath": "D:\\TestesBNE\\testeDeMesa1\\1.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\André Ivson\\AppData\\Roaming\\NuGet\\NuGet.Config",
