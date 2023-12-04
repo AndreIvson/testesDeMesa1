@@ -1,0 +1,14 @@
+D:\TesteBNE\testeDeMesa1\1.3\bin\Debug\net7.0\1.3.exe
+D:\TesteBNE\testeDeMesa1\1.3\bin\Debug\net7.0\1.3.deps.json
+D:\TesteBNE\testeDeMesa1\1.3\bin\Debug\net7.0\1.3.runtimeconfig.json
+D:\TesteBNE\testeDeMesa1\1.3\bin\Debug\net7.0\1.3.dll
+D:\TesteBNE\testeDeMesa1\1.3\bin\Debug\net7.0\1.3.pdb
+D:\TesteBNE\testeDeMesa1\1.3\obj\Debug\net7.0\1.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\TesteBNE\testeDeMesa1\1.3\obj\Debug\net7.0\1.3.AssemblyInfoInputs.cache
+D:\TesteBNE\testeDeMesa1\1.3\obj\Debug\net7.0\1.3.AssemblyInfo.cs
+D:\TesteBNE\testeDeMesa1\1.3\obj\Debug\net7.0\1.3.csproj.CoreCompileInputs.cache
+D:\TesteBNE\testeDeMesa1\1.3\obj\Debug\net7.0\1.3.dll
+D:\TesteBNE\testeDeMesa1\1.3\obj\Debug\net7.0\refint\1.3.dll
+D:\TesteBNE\testeDeMesa1\1.3\obj\Debug\net7.0\1.3.pdb
+D:\TesteBNE\testeDeMesa1\1.3\obj\Debug\net7.0\1.3.genruntimeconfig.cache
+D:\TesteBNE\testeDeMesa1\1.3\obj\Debug\net7.0\ref\1.3.dll
